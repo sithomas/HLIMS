@@ -1,0 +1,27 @@
+
+{
+    "region" : "us-east-2",
+    "profile" : "HLIMS_Assignment_AWS_Profile",
+    "configuration" : "Release",
+    "tag"           : "hlimsapimicroservices:latest",
+    "docker-build-working-dir" : "",
+    "cluster"                  : "HLIMS-Cluster",
+    "launch-type"              : "FARGATE",
+    "launch-subnets"           : "subnet-b06f65d8,subnet-d14f0fab,subnet-cb43eb87",
+    "launch-security-groups"   : "sg-872e6ee7",
+    "assign-public-ip"         : true,
+    "task-definition-name"     : "HLIMS-Cluster-Task",
+    "task-cpu"                 : "256",
+    "task-memory"              : "512",
+    "task-definition-task-role" : "arn:aws:iam::345918328353:role/ecsTaskExecutionRole",
+    "task-execution-role"       : "ecsTaskExecutionRole",
+    "container-name"            : "HLIMS_API_Container",
+    "container-port-mapping"    : "5000:80",
+    "container-environment-variables" : "",
+    "skip-image-push"                 : false,
+    "cluster-service"                 : "HLIMSAPIMicroservices",
+    "desired-count"                   : 1,
+    "deployment-minimum-healthy-percent" : 50,
+    "deployment-maximum-percent"         : 200,
+    "vstoolkit-deployment-mode"          : "DeployService"
+}

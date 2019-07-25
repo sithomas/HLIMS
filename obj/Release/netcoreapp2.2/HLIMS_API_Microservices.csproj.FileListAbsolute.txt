@@ -1,0 +1,14 @@
+D:\Personal\HLIMS_API_MicroServices\bin\Release\netcoreapp2.2\HLIMS_API_Microservices.deps.json
+D:\Personal\HLIMS_API_MicroServices\bin\Release\netcoreapp2.2\HLIMS_API_Microservices.runtimeconfig.json
+D:\Personal\HLIMS_API_MicroServices\bin\Release\netcoreapp2.2\HLIMS_API_Microservices.runtimeconfig.dev.json
+D:\Personal\HLIMS_API_MicroServices\bin\Release\netcoreapp2.2\HLIMS_API_Microservices.dll
+D:\Personal\HLIMS_API_MicroServices\bin\Release\netcoreapp2.2\HLIMS_API_Microservices.pdb
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.csproj.CoreCompileInputs.cache
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.RazorAssemblyInfo.cache
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.RazorAssemblyInfo.cs
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.AssemblyInfoInputs.cache
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.AssemblyInfo.cs
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.RazorTargetAssemblyInfo.cache
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.dll
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.pdb
+D:\Personal\HLIMS_API_MicroServices\obj\Release\netcoreapp2.2\HLIMS_API_Microservices.csprojResolveAssemblyReference.cache
